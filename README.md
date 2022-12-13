@@ -47,9 +47,6 @@ filetree
 
 ```
 
-### Result
-![](/result/readme.png)
-
 ### Copyright
 
 For details, please refer to [LICENSE.txt](https://github.com/LYXRhythm/BSS_SC/blob/main/LICENSE.txt)
