@@ -40,9 +40,10 @@ filetree
 ├── LICENSE.txt
 ├── README.md
 ├── /dataset/
-│  ├── exp2_10halo_A.mat
-│  ├── exp2_10halo_S.mat
-│  ├── exp2_10halo_X.mat
+│  ├── /signal/
+│      ├── signal1.mat
+│      ├── signal2.mat
+│      ├── signal3.mat
 ├── /result/
 
 ```
