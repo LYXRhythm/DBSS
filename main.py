@@ -281,8 +281,6 @@ if __name__=='__main__':
         print(np.array(s_time_domain).shape)
         print(np.array(x_time_domain).shape)
         print(np.array(s_hat_time_domain).shape)
-        display(s_time_domain, x_time_domain, s_hat_time_domain, \
-                    s_length=12848, x_length=12848, s_hat_length=12848)
             
         f.write("SNR="+str(snr)+"  ASIR="+str(result))
         print("SNR=", snr, "  ASIR=", result)
