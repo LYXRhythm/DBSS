@@ -5,7 +5,6 @@ This is the code for the thesis "Statistical correlation blind signal separation
 ## Catalog
 
 - [Setup](#(Setup))
-- [Steps](#Steps)
 - [Files](#Files)
 - [Result](#Result)
 - [Copyright](#Copyright)
