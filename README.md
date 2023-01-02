@@ -10,24 +10,11 @@ This is the code for the thesis "Statistical correlation blind signal separation
 - [Result](#Result)
 - [Copyright](#Copyright)
 
-
 ### Setup
 
 1. numpy        1.20.0
 2. scipy        1.6.1
 3. matplotlib   3.5.1
-
-### Steps
-
-1. Clone the repo
-
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
-2. run
-```sh
-python main.py
-```
 
 ### Files
 
