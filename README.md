@@ -1,6 +1,6 @@
 # Statistical correlation blind signal separation under relaxed sparse condition
 
-This is the code for the thesis "Statistical correlation blind signal separation under relaxed sparse condition".
+This is the code for the thesis "Statistical correlation blind signal separation under relaxed sparse condition". (IEEE Signal Processing Letters, Python Code)
  
 ## Catalog
 
@@ -34,7 +34,18 @@ filetree
 
 ```
 
-### Copyright
+### Citation
+If you find this work useful in your research, please consider citing:
 
-For details, please refer to [LICENSE.txt](https://github.com/LYXRhythm/BSS_SC/blob/main/LICENSE.txt)
+```
+@article{li2023statistically,
+  title={Statistically dependent blind signal separation under relaxed sparsity},
+  author={Li, Yongxiang and Peng, Dezhong and Xiang, Yong and Tao, Qingchuan and Yuan, Zhong},
+  journal={IEEE Signal Processing Letters},
+  volume={30},
+  pages={598--602},
+  year={2023},
+  publisher={IEEE}
+}
+```
 
